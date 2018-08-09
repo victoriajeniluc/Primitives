@@ -14,6 +14,6 @@ public class IntPrimitive {
         System.out.println(i1);
 
         // i1 = -2147483649; Out of range
-        // i1 = 2147483648; Out of range 
+        // i1 = 2147483648; Out of range
     }
 }
