@@ -1,5 +1,6 @@
 /**
  * Class to show examples of short primitives
+ * @author Udayan Khattry
  */
 
 public class ShortPrimitive {

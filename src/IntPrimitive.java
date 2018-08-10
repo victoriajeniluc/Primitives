@@ -1,5 +1,6 @@
 /**
  * Class to show examples of int primitives
+ * @author Udayan Khattry
  */
 public class IntPrimitive {
     public static void main(String[] args) {

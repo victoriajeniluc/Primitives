@@ -1,5 +1,6 @@
 /**
  * Class to show examples of long primitives
+ * @author Udayan Khattry
  */
 
 public class LongPrimitive {

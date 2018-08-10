@@ -1,5 +1,6 @@
 /**
  * Class to show examples of float/ double primitive
+ * @author Udayan Khattry
  */
 public class FloatDoublePrimitives {
     public static void main(String[] args) {

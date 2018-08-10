@@ -1,5 +1,6 @@
 /**
  * Class to show boolean primitives
+ * @author Udayan Khattry
  */
 public class BooleanPrimitive {
     public static void main(String[] args) {
